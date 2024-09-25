@@ -1,0 +1,5 @@
+# 生命命令: pip freeze > requirements.txt
+requests~=2.32.3
+openai~=1.47.1
+pandas~=2.2.3
+openpyxl~=3.1.5
